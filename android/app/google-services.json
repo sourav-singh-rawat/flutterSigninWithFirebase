@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1026470751710",
+    "firebase_url": "https://singinflutterdemo.firebaseio.com",
+    "project_id": "singinflutterdemo",
+    "storage_bucket": "singinflutterdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026470751710:android:ec10d0188f0be0c44d814f",
+        "android_client_info": {
+          "package_name": "com.example.signinfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026470751710-t2bfrer195ab1ogcsdmr6fab11fk1jsa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEBBqCnL94UsziUFlc5n4u6B-fOkanMs4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026470751710-t2bfrer195ab1ogcsdmr6fab11fk1jsa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
